@@ -16,7 +16,7 @@ Creating a default directory
 
 Starting the mongodb server
 
->sudo service mongod stop
+>sudo service mongod start
 
 Command line mongo
 >mongo
